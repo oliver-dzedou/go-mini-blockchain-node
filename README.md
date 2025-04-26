@@ -1,3 +1,3 @@
 # go-blockchain-node
 
-Minimal blockchain node built with Go (for learning purposes)
+Minimal blockchain node built in Go (for learning purposes)
